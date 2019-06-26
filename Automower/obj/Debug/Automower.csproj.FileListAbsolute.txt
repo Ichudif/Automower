@@ -1,0 +1,13 @@
+C:\Users\Andreas\source\repos\Automower\Automower\bin\Debug\Automower.exe.config
+C:\Users\Andreas\source\repos\Automower\Automower\bin\Debug\Automower.exe
+C:\Users\Andreas\source\repos\Automower\Automower\bin\Debug\Automower.pdb
+C:\Users\Andreas\source\repos\Automower\Automower\obj\Debug\Automower.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\Automower\Automower\obj\Debug\Automower.exe
+C:\Users\Andreas\source\repos\Automower\Automower\obj\Debug\Automower.pdb
+C:\Users\Andreas\source\repos\5AHIF_harapatt_Automower\Automower\bin\Debug\Automower.exe.config
+C:\Users\Andreas\source\repos\5AHIF_harapatt_Automower\Automower\bin\Debug\Automower.exe
+C:\Users\Andreas\source\repos\5AHIF_harapatt_Automower\Automower\bin\Debug\Automower.pdb
+C:\Users\Andreas\source\repos\5AHIF_harapatt_Automower\Automower\obj\Debug\Automower.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\5AHIF_harapatt_Automower\Automower\obj\Debug\Automower.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\5AHIF_harapatt_Automower\Automower\obj\Debug\Automower.exe
+C:\Users\Andreas\source\repos\5AHIF_harapatt_Automower\Automower\obj\Debug\Automower.pdb

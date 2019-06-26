@@ -1,0 +1,6 @@
+2 Klassen:
+	Main
+	Feld (stellt jedes zu mähende Feld dar):
+		maehanzanl(int): anzahl der mähdurchgänge auf diesem Feld
+		isrand(bool): zeigt an ob dieses Feld am Rand liegt
+		isinside(bool): zeigt an, ob dieses Feld in dem zu mähenden Bereich liegt
